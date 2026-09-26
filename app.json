@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Pokedex Lite",
+    "slug": "pokedex-lite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "pokedex-lite",
+    "plugins": ["expo-router"]
+  }
+}
